@@ -1,0 +1,1 @@
+C:\respire\platforms\windows\CordovaApp.Phone.jsproj;neutral

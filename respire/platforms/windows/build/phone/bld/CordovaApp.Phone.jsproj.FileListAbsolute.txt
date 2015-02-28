@@ -1,0 +1,15 @@
+C:\respire\platforms\windows\build\phone\debug\anycpu\AppxManifest.xml
+C:\respire\platforms\windows\build\phone\debug\anycpu\CordovaApp.Phone.build.appxrecipe
+C:\respire\platforms\windows\build\phone\bld\priconfig.xml
+C:\respire\platforms\windows\build\phone\bld\priconfig.xml.intermediate
+C:\respire\platforms\windows\build\phone\bld\layout.resfiles
+C:\respire\platforms\windows\build\phone\bld\layout.resfiles.intermediate
+C:\respire\platforms\windows\build\phone\bld\resources.resfiles
+C:\respire\platforms\windows\build\phone\bld\resources.resfiles.intermediate
+C:\respire\platforms\windows\build\phone\bld\pri.resfiles
+C:\respire\platforms\windows\build\phone\bld\pri.resfiles.intermediate
+C:\respire\platforms\windows\build\phone\bld\qualifiers.txt
+C:\respire\platforms\windows\build\phone\bld\qualifiers.txt.intermediate
+C:\respire\platforms\windows\build\phone\bld\MultipleQualifiersPerDimensionFound.txt
+C:\respire\platforms\windows\build\phone\bld\ProjectArchitectures.txt
+C:\respire\platforms\windows\build\phone\Debug\AnyCPU\ReverseMap\resources.pri

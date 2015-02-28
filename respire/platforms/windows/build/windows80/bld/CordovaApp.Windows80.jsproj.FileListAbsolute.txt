@@ -1,0 +1,15 @@
+C:\respire\platforms\windows\build\windows80\debug\anycpu\resources.pri
+C:\respire\platforms\windows\build\windows80\debug\anycpu\AppxManifest.xml
+C:\respire\platforms\windows\build\windows80\debug\anycpu\CordovaApp.Windows80.build.appxrecipe
+C:\respire\platforms\windows\build\windows80\bld\priconfig.xml
+C:\respire\platforms\windows\build\windows80\bld\priconfig.xml.intermediate
+C:\respire\platforms\windows\build\windows80\bld\layout.resfiles
+C:\respire\platforms\windows\build\windows80\bld\layout.resfiles.intermediate
+C:\respire\platforms\windows\build\windows80\bld\resources.resfiles
+C:\respire\platforms\windows\build\windows80\bld\resources.resfiles.intermediate
+C:\respire\platforms\windows\build\windows80\bld\pri.resfiles
+C:\respire\platforms\windows\build\windows80\bld\pri.resfiles.intermediate
+C:\respire\platforms\windows\build\windows80\bld\qualifiers.txt
+C:\respire\platforms\windows\build\windows80\bld\qualifiers.txt.intermediate
+C:\respire\platforms\windows\build\windows80\bld\MultipleQualifiersPerDimensionFound.txt
+C:\respire\platforms\windows\build\windows80\bld\ProjectArchitectures.txt
